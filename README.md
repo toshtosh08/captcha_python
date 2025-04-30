@@ -1,5 +1,4 @@
-"# captcha_python" 
-##CAPTCHA Verification Application
+#CAPTCHA Verification Application
 A Python and Tkinter desktop app for text-based CAPTCHA verification. It shows a random string on a canvas with distortions and noise, letting users confirm they’re not bots.
 #Features
 6-character CAPTCHA (letters/digits) with text distortion, noise, and lines.
